@@ -131,8 +131,10 @@ header .nav-links li:last-child {
 }
 
 .add-content>img {
-  
-width: 100%;
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1140px;
 }
 
 .add-content>.titles {
